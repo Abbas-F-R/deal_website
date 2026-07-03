@@ -29,6 +29,5 @@ EXPOSE 3005
 ENV HOST=0.0.0.0
 ENV PORT=3005
 ENV NODE_ENV=production
-
 # Start the application
 CMD ["node", ".output/server/index.mjs"]

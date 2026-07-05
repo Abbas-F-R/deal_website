@@ -177,7 +177,7 @@
     "success": "Thanks! Your message has been sent. We will get back to you soon.",
     "info": {
       "emailLabel": "Email",
-      "email": "haider.alwide@gmail.com",
+      "email": "haider.alwide{'@'}gmail.com",
       "phoneLabel": "Phone / WhatsApp",
       "phone": "009647888311167",
       "phone2Label": "Other phone",
@@ -225,7 +225,7 @@
     },
     "contact": {
       "title": "Contact us",
-      "body": "For any questions about this Privacy Policy, or to submit requests regarding the deletion of your account and personal data, please contact us by email at haider.alwide@gmail.com and our team will be happy to help."
+      "body": "For any questions about this Privacy Policy, or to submit requests regarding the deletion of your account and personal data, please contact us by email at haider.alwide{'@'}gmail.com and our team will be happy to help."
     }
   },
   "footer": {
